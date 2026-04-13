@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <filename>guide.xml</filename>
+  <mode>n</mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36</user-agent>
+  <logging>on</logging>
+  <retry time-out="10">4</retry>
+  <timespan>7</timespan>
+  <update>f</update>
+
+  <channels>
+    <channel update="i" site="plius.init.lt" site_id="1##lrt-televizija.png" xmltv_id="LRT televizija">LRT televizija</channel>
+    <channel update="i" site="plius.init.lt" site_id="8##lrt-plius.png" xmltv_id="LRT Plus">LRT Plus</channel>
+    <channel update="i" site="plius.init.lt" site_id="2##tv3.png" xmltv_id="TV3">TV3</channel>
+    <channel update="i" site="plius.init.lt" site_id="4##lnk.png" xmltv_id="LNK">LNK</channel>
+    <channel update="i" site="plius.init.lt" site_id="3##btv.png" xmltv_id="BTV">BTV</channel>
+    <channel update="i" site="plius.init.lt" site_id="5##tv6.png" xmltv_id="TV6">TV6</channel>
+    <channel update="i" site="plius.init.lt" site_id="7##tv8.png" xmltv_id="TV8">TV8</channel>
+    <channel update="i" site="plius.init.lt" site_id="6##tv1.png" xmltv_id="TV1">TV1</channel>
+    <channel update="i" site="plius.init.lt" site_id="23##tv3-plus.png" xmltv_id="TV3 Plus">TV3 Plus</channel>
+    <channel update="i" site="plius.init.lt" site_id="13##lietuvos-ryto-televizija.png" xmltv_id="Lietuvos rytas TV">Lietuvos rytas TV</channel>
+    <channel update="i" site="plius.init.lt" site_id="41##delfi-tv.png" xmltv_id="Delfi TV">Delfi TV</channel>
+
+    <channel update="i" site="plius.init.lt" site_id="35##lrt-lituanica.png" xmltv_id="LRT Lituanica">LRT Lituanica</channel>
+    <channel update="i" site="plius.init.lt" site_id="101##lrt-klasika.png" xmltv_id="LRT Klasika">LRT Klasika</channel>
+    <channel update="i" site="plius.init.lt" site_id="102##lrt-opus.png" xmltv_id="LRT Opus">LRT Opus</channel>
+    <channel update="i" site="plius.init.lt" site_id="100##lrt-radijas.png" xmltv_id="LRT Radijas">LRT Radijas</channel>
+
+    <channel update="i" site="plius.init.lt" site_id="12##init-tv.png" xmltv_id="Init TV">Init TV</channel>
+    <channel update="i" site="plius.init.lt" site_id="25##init-ekstra-tv.png" xmltv_id="Init Extra TV">Init Extra TV</channel>
+    <channel update="i" site="plius.init.lt" site_id="59##init-play-tv.png" xmltv_id="Init Play TV">Init Play TV</channel>
+    <channel update="i" site="plius.init.lt" site_id="26##siauliu-televizija.png" xmltv_id="Siauliu televizija">Siauliu televizija</channel>
+
+    <channel update="i" site="plius.init.lt" site_id="19##balticum-tv.png" xmltv_id="Balticum TV">Balticum TV</channel>
+    <channel update="i" site="plius.init.lt" site_id="21##balticum-auksinis.png" xmltv_id="Balticum Auksinis">Balticum Auksinis</channel>
+    <channel update="i" site="plius.init.lt" site_id="45##balticum-platinum.png" xmltv_id="Balticum Platinum">Balticum Platinum</channel>
+    <channel update="i" site="plius.init.lt" site_id="38##go3-films.png" xmltv_id="Go3 Films">Go3 Films</channel>
+    <channel update="i" site="plius.init.lt" site_id="48##filmzone.png" xmltv_id="FilmZone">FilmZone</channel>
+    <channel update="i" site="plius.init.lt" site_id="49##filmzone-plius.png" xmltv_id="FilmZone+">FilmZone+</channel>
+
+    <channel update="i" site="plius.init.lt" site_id="14##sport1.png" xmltv_id="Sport1">Sport1</channel>
+    <channel update="i" site="plius.init.lt" site_id="31##go3-sport-1.png" xmltv_id="Go3 Sport 1">Go3 Sport 1</channel>
+    <channel update="i" site="plius.init.lt" site_id="32##go3-sport-2.png" xmltv_id="Go3 Sport 2">Go3 Sport 2</channel>
+    <channel update="i" site="plius.init.lt" site_id="39##go3-sport-3.png" xmltv_id="Go3 Sport 3">Go3 Sport 3</channel>
+    <channel update="i" site="plius.init.lt" site_id="44##go3-sport-4.png" xmltv_id="Go3 Sport 4">Go3 Sport 4</channel>
+    <channel update="i" site="plius.init.lt" site_id="62##go3-sport-open.png" xmltv_id="Go3 Sport Open">Go3 Sport Open</channel>
+    <channel update="i" site="plius.init.lt" site_id="15##eurosport-1.png" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="plius.init.lt" site_id="16##eurosport-2.png" xmltv_id="Eurosport 2">Eurosport 2</channel>
+  </channels>
+</settings>
