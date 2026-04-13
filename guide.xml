@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.5.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="LRT televizija">
+    <display-name lang="lt">LRT televizija</display-name>
+    <icon src="https://plius.init.lt/static/channels/lrt-televizija.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="LRT Plus">
+    <display-name lang="lt">LRT Plus</display-name>
+    <icon src="https://plius.init.lt/static/channels/lrt-plius.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="lt">TV3</display-name>
+    <icon src="https://plius.init.lt/static/channels/tv3.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="LNK">
+    <display-name lang="lt">LNK</display-name>
+    <icon src="https://plius.init.lt/static/channels/lnk.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="BTV">
+    <display-name lang="lt">BTV</display-name>
+    <icon src="https://plius.init.lt/static/channels/btv.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="TV6">
+    <display-name lang="lt">TV6</display-name>
+    <icon src="https://plius.init.lt/static/channels/tv6.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="TV8">
+    <display-name lang="lt">TV8</display-name>
+    <icon src="https://plius.init.lt/static/channels/tv8.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="TV1">
+    <display-name lang="lt">TV1</display-name>
+    <icon src="https://plius.init.lt/static/channels/tv1.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="TV3 Plus">
+    <display-name lang="lt">TV3 Plus</display-name>
+    <icon src="https://plius.init.lt/static/channels/tv3-plus.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Lietuvos rytas TV">
+    <display-name lang="lt">Lietuvos rytas TV</display-name>
+    <icon src="https://plius.init.lt/static/channels/lietuvos-ryto-televizija.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Delfi TV">
+    <display-name lang="lt">Delfi TV</display-name>
+    <icon src="https://plius.init.lt/static/channels/delfi-tv.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="LRT Lituanica">
+    <display-name lang="lt">LRT Lituanica</display-name>
+    <icon src="https://plius.init.lt/static/channels/lrt-lituanica.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="LRT Klasika">
+    <display-name lang="lt">LRT Klasika</display-name>
+    <icon src="https://plius.init.lt/static/channels/lrt-klasika.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="LRT Opus">
+    <display-name lang="lt">LRT Opus</display-name>
+    <icon src="https://plius.init.lt/static/channels/lrt-opus.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="LRT Radijas">
+    <display-name lang="lt">LRT Radijas</display-name>
+    <icon src="https://plius.init.lt/static/channels/lrt-radijas.png" />
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Init TV">
+    <display-name lang="lt">Init TV</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Init Extra TV">
+    <display-name lang="lt">Init Extra TV</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Init Play TV">
+    <display-name lang="lt">Init Play TV</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Siauliu televizija">
+    <display-name lang="lt">Siauliu televizija</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Balticum TV">
+    <display-name lang="lt">Balticum TV</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Balticum Auksinis">
+    <display-name lang="lt">Balticum Auksinis</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Balticum Platinum">
+    <display-name lang="lt">Balticum Platinum</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Go3 Films">
+    <display-name lang="lt">Go3 Films</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="FilmZone">
+    <display-name lang="lt">FilmZone</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="FilmZone+">
+    <display-name lang="lt">FilmZone+</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Sport1">
+    <display-name lang="lt">Sport1</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Go3 Sport 1">
+    <display-name lang="lt">Go3 Sport 1</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Go3 Sport 2">
+    <display-name lang="lt">Go3 Sport 2</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Go3 Sport 3">
+    <display-name lang="lt">Go3 Sport 3</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Go3 Sport 4">
+    <display-name lang="lt">Go3 Sport 4</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Go3 Sport Open">
+    <display-name lang="lt">Go3 Sport Open</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="lt">Eurosport 1</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="lt">Eurosport 2</display-name>
+    <url>http://www.plius.init.lt</url>
+  </channel>
+</tv>
