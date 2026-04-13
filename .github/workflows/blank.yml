@@ -1,0 +1,33 @@
+name: Automatinis EPG atnaujinimas
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Paleidžiama kasdien 05:00 Lietuvos laiku
+  workflow_dispatch: # Leidžia paleisti rankiniu būdu
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Atsisiųsti failus
+        uses: actions/checkout@v4
+
+      - name: Sukurti laikiną aplanką
+        run: mkdir -p out
+
+      - name: Paleisti WebGrab+Plus
+        run: |
+          docker run --rm \
+            -v $(pwd):/config \
+            -v $(pwd)/siteini.user:/app/siteini.user \
+            ghcr.io/linuxserver/webgrabplus
+
+      - name: Išsiųsti atnaujintą guide.xml
+        run: |
+          git config --global user.name "EPG Bot"
+          git config --global user.email "bot@github.com"
+          git add guide.xml
+          git commit -m "Atnaujintas EPG: $(date)" || echo "Pakeitimų nėra"
+          git push
